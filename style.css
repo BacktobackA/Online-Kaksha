@@ -1369,8 +1369,9 @@ section{
       grid-template-columns: 1fr;
    }
 
-   .about .row .image img{
+   .about .row img{
       height: 25rem;
    }
+
 
 }
